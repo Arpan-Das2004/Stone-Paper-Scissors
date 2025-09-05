@@ -10,8 +10,8 @@ Welcome to my **Stone Paper Scissors** game – a simple yet fun console-based m
 - **Project Name:** Stone Paper Scissors Game  
 - **Type:** Console-based game  
 - **Project Level:** Mini Project – Level 2  
-- **Language Used:** Python *(or your language)*  
-- **Topics Covered:** User input, randomization, conditional logic, loops
+- **Language Used:** Javascrpit
+- **Topics Covered:** randomization, conditional logic, loops
 
 ---
 
@@ -59,6 +59,7 @@ To build an interactive CLI game where the player competes against the computer 
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/Arpan-Das2004/stone-paper-scissors-game.git
+   git clone https://github.com/Arpan-Das2004/Stone-Paper-Scissors.git
+
 
 
